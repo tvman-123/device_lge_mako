@@ -1,0 +1,13 @@
+[
+ {
+   "remote": "krexus",
+   "repository": "kernel_lge_mako",
+   "target_path": "kernel/lge/mako",
+   "revision": "mm"
+ },
+ { "remote": "krexus",
+    "repository": "vendor_lge",
+    "target_path": "vendor/lge",
+    "revision": "mm"
+  }
+]
